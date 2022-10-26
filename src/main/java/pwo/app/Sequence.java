@@ -1,6 +1,15 @@
 package pwo.app;
+
+/**
+ * Główna klasa uruchomieniowa
+ * @author student
+ */
 public class Sequence {
     
+    /**
+     * Metoda uruchomieniowa <b>main</b>
+     * @param args
+     */
     public static void main(String[] args) {
 
         switch(args.length){
