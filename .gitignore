@@ -1,2 +1,5 @@
 /fibseq100.txt
-target/
+target/classes
+target/javadoc-bundle-options
+target/test-classes
+target/maven-javadoc-plugin-stale-data.txt
